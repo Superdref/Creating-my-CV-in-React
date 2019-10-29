@@ -10,6 +10,7 @@ const Contact = ({tel, email, website, city}) => {
                 <li>{city}</li>
             </ul>
         </div>
+
     );
 };
 
