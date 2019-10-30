@@ -7,7 +7,7 @@ const Intro = ({image}) => {
                 <img className="img-fluid" src={image} alt="" srcset="" />
             </div>
             <div className="col=10">
-                <p>presentation</p>
+                <p>presentation presentation presentation presentation presentation</p>
             </div>
         </div>
     );
