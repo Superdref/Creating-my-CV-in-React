@@ -3,9 +3,9 @@ import React from 'react';
 const Who = ({name, job}) => {
     return (
         <div className="col-9">
-                <h1>name</h1>
-                <h2>job</h2>
-            </div>
+            <h1>Frédérique MENDY</h1>
+            <h2>Web Designer</h2>
+        </div>
     );
 };
 

@@ -2,7 +2,7 @@ import React from 'react';
 
 const Contact = ({tel, email, website, city}) => {
     return (
-        <div className="col=3">
+        <div className="col-3">
             <ul>
                 <li>{tel}</li>
                 <li>{email}</li>
